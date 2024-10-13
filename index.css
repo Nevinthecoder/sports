@@ -3,7 +3,7 @@
     height: auto;
     width: 100%;
     border-radius: 10px;
-    background-image:url(Pictures/1.jpeg);
+    background-image:url(1.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -35,7 +35,7 @@ p{
 }
 
 .divi2{
-    background-image: url(Pictures/2.jpeg);
+    background-image: url(2.jpeg);
     border: 1px solid black;
     height: auto;
     width: 100%;
@@ -46,7 +46,7 @@ p{
 }
 
 .divi3{
-    background-image: url(Pictures/3.jpeg);
+    background-image: url(3.jpeg);
     border: 1px solid black;
     height: auto;
     width: 100%;
@@ -57,7 +57,7 @@ p{
 }
 
 .divi4{
-    background-image: url(Pictures/4.jpeg);
+    background-image: url(4.jpeg);
     border: 1px solid black;
     height: auto;
     width: 100%;
@@ -68,7 +68,7 @@ p{
 }
 
 .divi5{
-    background-image: url(Pictures/5.jpeg);
+    background-image: url(5.jpeg);
     border: 1px solid black;
     height: auto;
     width: 100%;
